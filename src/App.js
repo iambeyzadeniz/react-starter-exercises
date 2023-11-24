@@ -1,10 +1,10 @@
 import React from 'react';
-import ExpenderText from "./Projects/ExpenderText";
+import CurrencyConverter from "./Projects/CurrencyConverter";
 function App() {
   // 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
   return (
     <div>
-      <ExpenderText />
+      <CurrencyConverter />
     </div>
   );
 }
