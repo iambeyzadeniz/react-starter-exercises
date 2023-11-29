@@ -1,10 +1,10 @@
 import React from 'react';
-import CurrencyConverter from "./Projects/CurrencyConverter";
+import GeolocationApp from "./Projects/GeolocationApp";
 function App() {
   // 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
   return (
     <div>
-      <CurrencyConverter />
+      <GeolocationApp />
     </div>
   );
 }
