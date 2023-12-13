@@ -1,10 +1,10 @@
 import React from 'react';
-import GeolocationApp from "./Projects/GeolocationApp";
+import BankAccount from "./Projects/BankAccount";
 function App() {
   // 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
   return (
     <div>
-      <GeolocationApp />
+      <BankAccount />
     </div>
   );
 }
